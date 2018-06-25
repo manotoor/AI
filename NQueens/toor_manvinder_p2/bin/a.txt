@@ -1,0 +1,2573 @@
+Total generations: 1
+Average fitness: 191.88
+Total population: 150
+mutation rate: 50.0%
+Total generations: 2
+Average fitness: 194.62
+Total population: 150
+mutation rate: 50.0%
+Total generations: 3
+Average fitness: 196.91333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 4
+Average fitness: 198.27333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 5
+Average fitness: 199.29333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 6
+Average fitness: 200.77333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 7
+Average fitness: 201.92
+Total population: 150
+mutation rate: 50.0%
+Total generations: 8
+Average fitness: 202.60667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 9
+Average fitness: 202.28667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 10
+Average fitness: 203.81334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 11
+Average fitness: 204.49333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 12
+Average fitness: 204.73334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 13
+Average fitness: 205.06667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 14
+Average fitness: 206.48666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 15
+Average fitness: 206.94667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 16
+Average fitness: 207.24667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 17
+Average fitness: 206.82666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 18
+Average fitness: 206.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 19
+Average fitness: 207.01334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 20
+Average fitness: 207.01334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 21
+Average fitness: 206.94667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 22
+Average fitness: 206.94
+Total population: 150
+mutation rate: 50.0%
+Total generations: 23
+Average fitness: 207.13333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 24
+Average fitness: 206.94667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 25
+Average fitness: 207.13333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 26
+Average fitness: 206.93333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 27
+Average fitness: 207.08
+Total population: 150
+mutation rate: 50.0%
+Total generations: 28
+Average fitness: 206.98
+Total population: 150
+mutation rate: 50.0%
+Total generations: 29
+Average fitness: 207.11333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 30
+Average fitness: 207.17334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 31
+Average fitness: 206.94
+Total population: 150
+mutation rate: 50.0%
+Total generations: 32
+Average fitness: 206.99333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 33
+Average fitness: 206.94
+Total population: 150
+mutation rate: 50.0%
+Total generations: 34
+Average fitness: 207.02
+Total population: 150
+mutation rate: 50.0%
+Total generations: 35
+Average fitness: 207.04666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 36
+Average fitness: 206.84666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 37
+Average fitness: 207.05333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 38
+Average fitness: 207.12
+Total population: 150
+mutation rate: 50.0%
+Total generations: 39
+Average fitness: 207.19333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 40
+Average fitness: 207.05333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 41
+Average fitness: 207.19333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 42
+Average fitness: 207.14
+Total population: 150
+mutation rate: 50.0%
+Total generations: 43
+Average fitness: 206.89333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 44
+Average fitness: 207.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 45
+Average fitness: 207.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 46
+Average fitness: 207.15334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 47
+Average fitness: 207.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 48
+Average fitness: 206.9
+Total population: 150
+mutation rate: 50.0%
+Total generations: 49
+Average fitness: 207.12
+Total population: 150
+mutation rate: 50.0%
+Total generations: 50
+Average fitness: 207.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 51
+Average fitness: 207.27333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 52
+Average fitness: 207.07333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 53
+Average fitness: 206.87334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 54
+Average fitness: 206.86
+Total population: 150
+mutation rate: 50.0%
+Total generations: 55
+Average fitness: 207.10667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 56
+Average fitness: 207.1
+Total population: 150
+mutation rate: 50.0%
+Total generations: 57
+Average fitness: 207.04666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 58
+Average fitness: 207.01334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 59
+Average fitness: 207.0
+Total population: 150
+mutation rate: 50.0%
+Total generations: 60
+Average fitness: 207.08
+Total population: 150
+mutation rate: 50.0%
+Total generations: 61
+Average fitness: 207.17334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 62
+Average fitness: 207.24667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 63
+Average fitness: 207.94
+Total population: 150
+mutation rate: 50.0%
+Total generations: 64
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 65
+Average fitness: 208.10667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 66
+Average fitness: 207.99333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 67
+Average fitness: 208.03334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 68
+Average fitness: 208.03334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 69
+Average fitness: 207.88667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 70
+Average fitness: 207.93333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 71
+Average fitness: 208.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 72
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 73
+Average fitness: 207.78667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 74
+Average fitness: 208.17334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 75
+Average fitness: 207.96666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 76
+Average fitness: 207.85333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 77
+Average fitness: 208.02
+Total population: 150
+mutation rate: 50.0%
+Total generations: 78
+Average fitness: 207.95334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 79
+Average fitness: 207.96666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 80
+Average fitness: 207.92
+Total population: 150
+mutation rate: 50.0%
+Total generations: 81
+Average fitness: 207.92667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 82
+Average fitness: 208.0
+Total population: 150
+mutation rate: 50.0%
+Total generations: 83
+Average fitness: 208.06667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 84
+Average fitness: 207.89333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 85
+Average fitness: 208.17334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 86
+Average fitness: 207.86
+Total population: 150
+mutation rate: 50.0%
+Total generations: 87
+Average fitness: 208.05333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 88
+Average fitness: 207.82666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 89
+Average fitness: 207.98
+Total population: 150
+mutation rate: 50.0%
+Total generations: 90
+Average fitness: 208.06667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 91
+Average fitness: 208.35333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 92
+Average fitness: 207.99333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 93
+Average fitness: 208.0
+Total population: 150
+mutation rate: 50.0%
+Total generations: 94
+Average fitness: 207.98666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 95
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 96
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 97
+Average fitness: 207.86667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 98
+Average fitness: 207.84
+Total population: 150
+mutation rate: 50.0%
+Total generations: 99
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 100
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 101
+Average fitness: 208.06
+Total population: 150
+mutation rate: 50.0%
+Total generations: 102
+Average fitness: 208.10667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 103
+Average fitness: 208.04
+Total population: 150
+mutation rate: 50.0%
+Total generations: 104
+Average fitness: 208.1
+Total population: 150
+mutation rate: 50.0%
+Total generations: 105
+Average fitness: 208.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 106
+Average fitness: 208.02
+Total population: 150
+mutation rate: 50.0%
+Total generations: 107
+Average fitness: 207.94
+Total population: 150
+mutation rate: 50.0%
+Total generations: 108
+Average fitness: 208.03334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 109
+Average fitness: 208.15334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 110
+Average fitness: 207.94667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 111
+Average fitness: 208.12666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 112
+Average fitness: 208.19333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 113
+Average fitness: 207.98666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 114
+Average fitness: 207.86
+Total population: 150
+mutation rate: 50.0%
+Total generations: 115
+Average fitness: 207.93333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 116
+Average fitness: 207.94
+Total population: 150
+mutation rate: 50.0%
+Total generations: 117
+Average fitness: 208.14667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 118
+Average fitness: 207.88667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 119
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 120
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 121
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 122
+Average fitness: 208.13333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 123
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 124
+Average fitness: 207.98
+Total population: 150
+mutation rate: 50.0%
+Total generations: 125
+Average fitness: 208.02
+Total population: 150
+mutation rate: 50.0%
+Total generations: 126
+Average fitness: 208.06
+Total population: 150
+mutation rate: 50.0%
+Total generations: 127
+Average fitness: 208.01334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 128
+Average fitness: 208.03334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 129
+Average fitness: 207.92
+Total population: 150
+mutation rate: 50.0%
+Total generations: 130
+Average fitness: 208.17334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 131
+Average fitness: 208.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 132
+Average fitness: 207.87334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 133
+Average fitness: 207.94
+Total population: 150
+mutation rate: 50.0%
+Total generations: 134
+Average fitness: 207.96666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 135
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 136
+Average fitness: 207.93333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 137
+Average fitness: 207.91333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 138
+Average fitness: 207.86667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 139
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 140
+Average fitness: 208.16
+Total population: 150
+mutation rate: 50.0%
+Total generations: 141
+Average fitness: 208.1
+Total population: 150
+mutation rate: 50.0%
+Total generations: 142
+Average fitness: 207.89333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 143
+Average fitness: 207.98
+Total population: 150
+mutation rate: 50.0%
+Total generations: 144
+Average fitness: 208.05333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 145
+Average fitness: 207.93333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 146
+Average fitness: 208.04666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 147
+Average fitness: 207.87334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 148
+Average fitness: 207.88
+Total population: 150
+mutation rate: 50.0%
+Total generations: 149
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 150
+Average fitness: 208.12
+Total population: 150
+mutation rate: 50.0%
+Total generations: 151
+Average fitness: 207.98666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 152
+Average fitness: 208.14
+Total population: 150
+mutation rate: 50.0%
+Total generations: 153
+Average fitness: 207.98
+Total population: 150
+mutation rate: 50.0%
+Total generations: 154
+Average fitness: 207.92667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 155
+Average fitness: 208.07333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 156
+Average fitness: 208.12666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 157
+Average fitness: 208.04666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 158
+Average fitness: 207.88667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 159
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 160
+Average fitness: 207.94667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 161
+Average fitness: 207.98666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 162
+Average fitness: 207.90666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 163
+Average fitness: 207.94667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 164
+Average fitness: 207.96666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 165
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 166
+Average fitness: 207.99333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 167
+Average fitness: 207.82
+Total population: 150
+mutation rate: 50.0%
+Total generations: 168
+Average fitness: 208.18
+Total population: 150
+mutation rate: 50.0%
+Total generations: 169
+Average fitness: 208.13333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 170
+Average fitness: 207.88
+Total population: 150
+mutation rate: 50.0%
+Total generations: 171
+Average fitness: 208.13333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 172
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 173
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 174
+Average fitness: 208.07333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 175
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 176
+Average fitness: 207.94667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 177
+Average fitness: 208.16667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 178
+Average fitness: 208.16
+Total population: 150
+mutation rate: 50.0%
+Total generations: 179
+Average fitness: 207.78
+Total population: 150
+mutation rate: 50.0%
+Total generations: 180
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 181
+Average fitness: 208.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 182
+Average fitness: 208.05333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 183
+Average fitness: 207.86
+Total population: 150
+mutation rate: 50.0%
+Total generations: 184
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 185
+Average fitness: 207.95334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 186
+Average fitness: 208.10667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 187
+Average fitness: 207.9
+Total population: 150
+mutation rate: 50.0%
+Total generations: 188
+Average fitness: 208.11333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 189
+Average fitness: 208.04666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 190
+Average fitness: 207.85333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 191
+Average fitness: 208.03334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 192
+Average fitness: 208.0
+Total population: 150
+mutation rate: 50.0%
+Total generations: 193
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 194
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 195
+Average fitness: 208.14
+Total population: 150
+mutation rate: 50.0%
+Total generations: 196
+Average fitness: 207.98666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 197
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 198
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 199
+Average fitness: 207.95334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 200
+Average fitness: 208.2
+Total population: 150
+mutation rate: 50.0%
+Total generations: 201
+Average fitness: 208.03334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 202
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 203
+Average fitness: 207.94667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 204
+Average fitness: 208.12
+Total population: 150
+mutation rate: 50.0%
+Total generations: 205
+Average fitness: 207.98666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 206
+Average fitness: 208.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 207
+Average fitness: 207.84
+Total population: 150
+mutation rate: 50.0%
+Total generations: 208
+Average fitness: 208.15334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 209
+Average fitness: 208.06
+Total population: 150
+mutation rate: 50.0%
+Total generations: 210
+Average fitness: 208.22667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 211
+Average fitness: 208.06667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 212
+Average fitness: 207.84666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 213
+Average fitness: 207.99333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 214
+Average fitness: 207.88667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 215
+Average fitness: 207.87334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 216
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 217
+Average fitness: 208.1
+Total population: 150
+mutation rate: 50.0%
+Total generations: 218
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 219
+Average fitness: 208.03334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 220
+Average fitness: 207.87334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 221
+Average fitness: 208.01334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 222
+Average fitness: 208.07333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 223
+Average fitness: 208.1
+Total population: 150
+mutation rate: 50.0%
+Total generations: 224
+Average fitness: 208.13333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 225
+Average fitness: 208.01334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 226
+Average fitness: 208.06667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 227
+Average fitness: 207.98
+Total population: 150
+mutation rate: 50.0%
+Total generations: 228
+Average fitness: 208.06
+Total population: 150
+mutation rate: 50.0%
+Total generations: 229
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 230
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 231
+Average fitness: 208.04
+Total population: 150
+mutation rate: 50.0%
+Total generations: 232
+Average fitness: 207.92667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 233
+Average fitness: 208.1
+Total population: 150
+mutation rate: 50.0%
+Total generations: 234
+Average fitness: 208.07333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 235
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 236
+Average fitness: 208.08
+Total population: 150
+mutation rate: 50.0%
+Total generations: 237
+Average fitness: 207.78
+Total population: 150
+mutation rate: 50.0%
+Total generations: 238
+Average fitness: 207.89333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 239
+Average fitness: 208.05333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 240
+Average fitness: 208.04
+Total population: 150
+mutation rate: 50.0%
+Total generations: 241
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 242
+Average fitness: 208.11333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 243
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 244
+Average fitness: 207.89333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 245
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 246
+Average fitness: 207.98
+Total population: 150
+mutation rate: 50.0%
+Total generations: 247
+Average fitness: 207.94
+Total population: 150
+mutation rate: 50.0%
+Total generations: 248
+Average fitness: 207.88667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 249
+Average fitness: 208.1
+Total population: 150
+mutation rate: 50.0%
+Total generations: 250
+Average fitness: 208.15334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 251
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 252
+Average fitness: 207.9
+Total population: 150
+mutation rate: 50.0%
+Total generations: 253
+Average fitness: 207.82
+Total population: 150
+mutation rate: 50.0%
+Total generations: 254
+Average fitness: 207.88
+Total population: 150
+mutation rate: 50.0%
+Total generations: 255
+Average fitness: 208.06667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 256
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 257
+Average fitness: 207.94667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 258
+Average fitness: 208.10667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 259
+Average fitness: 208.14667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 260
+Average fitness: 208.14
+Total population: 150
+mutation rate: 50.0%
+Total generations: 261
+Average fitness: 207.98
+Total population: 150
+mutation rate: 50.0%
+Total generations: 262
+Average fitness: 208.01334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 263
+Average fitness: 207.99333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 264
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 265
+Average fitness: 207.90666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 266
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 267
+Average fitness: 207.87334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 268
+Average fitness: 208.03334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 269
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 270
+Average fitness: 208.25333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 271
+Average fitness: 208.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 272
+Average fitness: 208.07333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 273
+Average fitness: 207.96666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 274
+Average fitness: 208.04
+Total population: 150
+mutation rate: 50.0%
+Total generations: 275
+Average fitness: 207.86
+Total population: 150
+mutation rate: 50.0%
+Total generations: 276
+Average fitness: 207.95334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 277
+Average fitness: 207.86
+Total population: 150
+mutation rate: 50.0%
+Total generations: 278
+Average fitness: 207.96666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 279
+Average fitness: 208.07333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 280
+Average fitness: 207.91333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 281
+Average fitness: 207.93333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 282
+Average fitness: 207.90666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 283
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 284
+Average fitness: 207.98
+Total population: 150
+mutation rate: 50.0%
+Total generations: 285
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 286
+Average fitness: 208.02
+Total population: 150
+mutation rate: 50.0%
+Total generations: 287
+Average fitness: 208.05333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 288
+Average fitness: 208.03334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 289
+Average fitness: 207.73334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 290
+Average fitness: 208.0
+Total population: 150
+mutation rate: 50.0%
+Total generations: 291
+Average fitness: 208.12
+Total population: 150
+mutation rate: 50.0%
+Total generations: 292
+Average fitness: 208.04666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 293
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 294
+Average fitness: 208.11333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 295
+Average fitness: 207.94
+Total population: 150
+mutation rate: 50.0%
+Total generations: 296
+Average fitness: 208.08
+Total population: 150
+mutation rate: 50.0%
+Total generations: 297
+Average fitness: 207.90666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 298
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 299
+Average fitness: 207.96666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 300
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 301
+Average fitness: 207.92667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 302
+Average fitness: 207.96
+Total population: 150
+mutation rate: 50.0%
+Total generations: 303
+Average fitness: 207.9
+Total population: 150
+mutation rate: 50.0%
+Total generations: 304
+Average fitness: 208.11333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 305
+Average fitness: 207.96666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 306
+Average fitness: 207.89333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 307
+Average fitness: 207.96666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 308
+Average fitness: 208.04666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 309
+Average fitness: 208.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 310
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 311
+Average fitness: 208.02
+Total population: 150
+mutation rate: 50.0%
+Total generations: 312
+Average fitness: 207.81334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 313
+Average fitness: 207.92
+Total population: 150
+mutation rate: 50.0%
+Total generations: 314
+Average fitness: 208.08
+Total population: 150
+mutation rate: 50.0%
+Total generations: 315
+Average fitness: 208.11333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 316
+Average fitness: 208.12666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 317
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 318
+Average fitness: 207.9
+Total population: 150
+mutation rate: 50.0%
+Total generations: 319
+Average fitness: 208.18
+Total population: 150
+mutation rate: 50.0%
+Total generations: 320
+Average fitness: 208.09334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 321
+Average fitness: 208.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 322
+Average fitness: 207.92667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 323
+Average fitness: 207.97333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 324
+Average fitness: 208.00667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 325
+Average fitness: 208.02667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 326
+Average fitness: 208.14
+Total population: 150
+mutation rate: 50.0%
+Total generations: 327
+Average fitness: 208.10667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 328
+Average fitness: 207.9
+Total population: 150
+mutation rate: 50.0%
+Total generations: 329
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 330
+Average fitness: 208.0
+Total population: 150
+mutation rate: 50.0%
+Total generations: 331
+Average fitness: 208.18666
+Total population: 150
+mutation rate: 50.0%
+Total generations: 332
+Average fitness: 207.89333
+Total population: 150
+mutation rate: 50.0%
+Total generations: 333
+Average fitness: 208.06
+Total population: 150
+mutation rate: 50.0%
+Total generations: 334
+Average fitness: 208.08667
+Total population: 150
+mutation rate: 50.0%
+Total generations: 335
+Average fitness: 208.01334
+Total population: 150
+mutation rate: 50.0%
+Total generations: 336
+Average fitness: 207.88667
+Total population: 150
+mutation rate: 50.0%
+fitness: 1.0
+Printing sequence: 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	Q	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	Q	-	-	-	-	-	-	-	-	-
+	-	-	-	-	Q	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	Q	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Q
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Q	-	-	-
+	-	-	-	Q	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	Q	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	Q	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Q	-	-
+	-	-	-	-	-	-	-	-	-	-	Q	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Q	-	-	-	-	-	-
+	-	-	-	-	-	-	-	Q	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	Q	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Q	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Q	-
+	Q	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	Q	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	Q	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	Q	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Q	-	-	-	-
+193ms
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+
+1657
+On iteration: 0
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+
+286
+On iteration: 1
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+
+101
+On iteration: 2
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+
+1367
+On iteration: 3
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+
+213
+On iteration: 4
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+352
+On iteration: 5
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+
+1124
+On iteration: 6
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+
+105
+On iteration: 7
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+
+476
+On iteration: 8
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+
+78
+On iteration: 9
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+
+1001
+On iteration: 10
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+
+290
+On iteration: 11
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+159
+On iteration: 12
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+39
+On iteration: 13
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+303
+On iteration: 14
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+
+965
+On iteration: 15
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+524
+On iteration: 16
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+
+677
+On iteration: 17
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+353
+On iteration: 18
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+1631
+On iteration: 19
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+
+40
+On iteration: 20
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+
+755
+On iteration: 21
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+
+457
+On iteration: 22
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+
+157
+On iteration: 23
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+
+732
+On iteration: 24
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+212
+On iteration: 25
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+
+553
+On iteration: 26
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+
+208
+On iteration: 27
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+
+375
+On iteration: 28
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+
+893
+On iteration: 29
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+
+202
+On iteration: 30
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+
+934
+On iteration: 31
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+24
+On iteration: 32
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+149
+On iteration: 33
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+
+287
+On iteration: 34
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+407
+On iteration: 35
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+
+1446
+On iteration: 36
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+
+736
+On iteration: 37
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+
+600
+On iteration: 38
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+22
+On iteration: 39
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+
+597
+On iteration: 40
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+
+231
+On iteration: 41
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+664
+On iteration: 42
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+
+841
+On iteration: 43
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+
+359
+On iteration: 44
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+
+504
+On iteration: 45
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+159
+On iteration: 46
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+1099
+On iteration: 47
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+
+526
+On iteration: 48
+	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-
+	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-
+	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-
+	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Q 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-
+	-	-	-	-	-	-	-Q 	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+1952
+On iteration: 49
+Random restart successes: 50
+
+Random Restart:
+Nodes: 17870580
+Percent successes: 100%
